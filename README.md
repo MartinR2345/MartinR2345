@@ -11,7 +11,7 @@ After several years in healthcare scheduling patients appointments and managing 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Windows Server Administration, Active Directory, Group Policy, DNS/DHCP, PowerShell, Virtualization, Network Security|<a href="https://github.com/MartinR2345/ActiveDirectoryLab2">Active Directory Homelab</a>|
-| ISO 27001, Control Mapping, Framework alignment, Gap identification, Documentation, Audit Readiness Fundamentals, Risk assessment, Control Matrix| <a href="https://github.com/MartinR2345/MiniComplianceProgram">Mini Compliance Program (ISO 27001 Framework)</a>|
+| ISO 27001, Control Mapping, Framework alignment, Gap identification, Documentation, Audit Readiness Fundamentals, Risk assessment, Control Matrix| <a href="https://github.com/MartinR2345/MiniComplianceProgram"> ISO 27001 Compliance Program </a>|
 | NIST Framework (CSF), Cybersecurity Risk Assessment, Gap Analysis, Interviewing Stakeholders, Gathering Evidence, Security Control Assessment, Security Governance, Identity & Access Management (IAM), Cloud Security, Incident Response, DRP & BCP, Security Monitoring, PCI-DSS Awareness, Risk-Based Thinking| <a href="https://github.com/MartinR2345/EndtoEndCybersecurityProgram-/blob/main/README.md">Cybersecurity Program (NIST Framework CSF)</a>|
 
 
@@ -47,27 +47,6 @@ After several years in healthcare scheduling patients appointments and managing 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
